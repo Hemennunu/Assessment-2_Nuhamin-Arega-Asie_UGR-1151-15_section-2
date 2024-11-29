@@ -1,0 +1,236 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Business Box | About</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link href="../css/style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="main">
+      <div class="header">
+        <div class="header_resize">
+          <div class="logo">
+            <h1>
+              <a href="../../index.html"
+                ><small>empowering you through your journey</small><br />
+                <span>Business</span> Box</a
+              >
+            </h1>
+          </div>
+          <div class="menu_nav">
+            <ul>
+              <li><a href="../../index.html">Home</a></li>
+
+              <li class="active"><a href="about.html">About Us</a></li>
+
+              <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+          </div>
+          <div class="clr"></div>
+        </div>
+      </div>
+      <div class="content">
+        <div class="content_resize">
+          <div class="mainbar">
+            <div class="article">
+              <h2>About to Company Name</h2>
+              <p>
+                <strong
+                  >we are dedicated to empowering the next generation of
+                  innovators, leaders, and change-makers. Our mission is to
+                  provide young individuals with the tools, resources, and
+                  support they need to develop a diverse range of skills that
+                  will prepare them for the challenges of tomorrow.</strong
+                >
+              </p>
+              <p>
+                We believe in fostering a dynamic learning environment where
+                creativity meets practical experience, enabling our youth to
+                explore their passions and unlock their full potential. Through
+                mentorship, workshops, and collaborative projects, we aim to
+                cultivate a community that inspires confidence and encourages
+                lifelong learning. Together, we are shaping a brighter future,
+                one skill at a time.
+              </p>
+            </div>
+            <div class="article">
+              <h2>Our Mission</h2>
+              <p>
+                <strong
+                  >we are dedicated to empowering young individuals to unlock
+                  their full potential through skill development and
+                  entrepreneurial spirit. We believe that every young person has
+                  the ability to innovate, lead,</strong
+                >
+              </p>
+              <p>
+                we are dedicated to empowering young individuals to unlock their
+                full potential through skill development and entrepreneurial
+                spirit. We believe that every young person has the ability to
+                innovate, lead, and make a meaningful impact in their
+                communities. Our mission is to provide a supportive environment
+                where creativity and ambition thrive. We offer diverse programs
+                and resources tailored to foster essential skills—such as
+                critical thinking, communication, and teamwork—enabling young
+                people to navigate the complexities of the modern world. By
+                connecting them with mentors, workshops, and hands-on
+                experiences, we aim to inspire confidence and resilience.
+                Together, we cultivate a generation of leaders who are not only
+                prepared for the future but are also passionate about making a
+                difference. Join us in shaping a brighter tomorrow!.
+              </p>
+              <p>
+                we are dedicated to empowering young people to unlock their full
+                potential through skill development and personal growth. We
+                believe that every young individual possesses unique talents and
+                aspirations waiting to be nurtured. Our mission is to provide a
+                vibrant platform where they can explore diverse skills—from
+                entrepreneurship and leadership to creativity and technology. We
+                strive to create an inclusive community that fosters
+                collaboration, mentorship, and support, encouraging young minds
+                to take bold steps towards their dreams. Together, we aim to
+                inspire confidence, resilience, and a lifelong love of learning,
+                ensuring that the leaders of tomorrow are equipped with the
+                tools they need to thrive in an ever-evolving world.
+              </p>
+            </div>
+          </div>
+          <div class="sidebar">
+            <div class="gadget">
+              <h2 class="star">Sidebar Menu</h2>
+              <ul class="sb_menu">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">contact us</a></li>
+
+                <li><a href="#">About</a></li>
+              </ul>
+            </div>
+            <div class="gadget">
+              <h2 class="star">Sponsors</h2>
+              <ul class="ex_menu">
+                <li>
+                  <a href="#">list one</a><br />
+                  Over 6,000+ Premium Web Templates
+                </li>
+                <li>
+                  <a href="#">List one</a><br />
+                  Premium WordPress &amp; Joomla Themes
+                </li>
+                <li>
+                  <a href="#">List one</a><br />
+                  Affordable Web Hosting Provider
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="clr"></div>
+        </div>
+      </div>
+      <div class="fbg">
+        <div class="fbg_resize">
+          <div class="col c1">
+            <h2>Image Gallery</h2>
+            <a href="#"
+              ><img
+                src="../images/footer1.jpg"
+                width="66"
+                height="66"
+                alt=""
+                class="ad"
+            /></a>
+            <a href="#"
+              ><img
+                src="../images/footer2.jpg"
+                width="66"
+                height="66"
+                alt=""
+                class="ad"
+            /></a>
+            <a href="#"
+              ><img
+                src="../images/footer3.jpg"
+                width="66"
+                height="66"
+                alt=""
+                class="ad"
+            /></a>
+            <a href="#"
+              ><img
+                src="../images/footer4.jpg"
+                width="66"
+                height="66"
+                alt=""
+                class="ad"
+            /></a>
+            <a href="#"
+              ><img
+                src="../images/footer5.jpg"
+                width="66"
+                height="66"
+                alt=""
+                class="ad"
+            /></a>
+            <a href="#"
+              ><img
+                src="../images/footer6.jpg"
+                width="66"
+                height="66"
+                alt=""
+                class="ad"
+            /></a>
+            <div class="clr"></div>
+          </div>
+          <div class="col c2">
+            <h2>About</h2>
+            <img
+              src="../images/footerabout.jpg"
+              width="66"
+              height="66"
+              alt=""
+            />
+            <p>
+              we are dedicated to empowering young individuals to unlock their
+              full potential. Our mission is to provide a supportive environment
+              that fosters skill development, creativity, and entrepreneurship.
+              We believe in the power of community and collaboration, <br />
+              helping the next generation of leaders thrive in a rapidly
+              changing world. Join us on this journey to inspire growth,
+              innovation, and success.<br />
+              <a href="#">Learn more...</a>
+            </p>
+          </div>
+          <div class="col c3">
+            <h2>Contact</h2>
+            <p>
+              Your inquiries are important to us. If you need assistance or
+              support, don’t hesitate to contact our dedicated customer service
+              team. We are committed to providing timely and helpful responses
+              to all your queries.
+            </p>
+            <p>
+              <strong>Phone:</strong> +1234567<br />
+              <strong>Address:</strong> 123 TemplateAccess Rd<br />
+              <strong>E-mail:</strong> <a href="#">info@example.com</a>
+            </p>
+          </div>
+          <div class="clr"></div>
+        </div>
+      </div>
+      <div class="footer">
+        <div class="footer_resize">
+          <ul class="fmenu">
+            <li><a href="../../index.html">Home</a></li>
+
+            <li class="active"><a href="about.html">About Us</a></li>
+            <li><a href="contact.html">Contacts</a></li>
+          </ul>
+          <p class="lf">
+            &copy; Copyright MyWebSite. Designed by Blue
+            <a href="#">Website </a>
+          </p>
+          <div class="clr"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
